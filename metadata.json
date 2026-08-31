@@ -1,0 +1,6 @@
+{
+  "name": "Belajar IT - Media Pembelajaran IT Siswa SMP",
+  "description": "Platform pembelajaran Informatika (IT) interaktif untuk siswa SMP dengan materi Perangkat Komputer, Internet & Jaringan, Etika Digital, kuis otomatis, dan dashboard nilai guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
